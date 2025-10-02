@@ -1,5 +1,5 @@
 package Abstractions;
 
-interface IPayment {
+public interface IPayment {
     void makePayment(double amount);
 }
